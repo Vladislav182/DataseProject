@@ -1,0 +1,1 @@
+SELECT * FROM hora WHERE pol = 'jena'
